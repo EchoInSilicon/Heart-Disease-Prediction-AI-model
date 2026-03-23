@@ -40,9 +40,11 @@ Final model predicts whether a person is likely to have heart disease
 ->Tech Stack
 
 #Language
+
 Python
 
 #Libraries Used
+
 (1)NumPy → numerical computations
 (2)Pandas → data manipulation and analysis
 (3)Matplotlib → data visualization
@@ -50,6 +52,7 @@ Python
 (5)Scikit-learn → machine learning models and evaluation
 
 #AI/ML Aspect
+
 This project is an Artificial Intelligence / Machine Learning application that uses classification algorithms to:
 
 Learn patterns from historical medical data
@@ -59,16 +62,19 @@ Make predictions on unseen data
 The model improves its performance based on training data, making it a practical example of supervised learning in healthcare.
 
 #Features
+
 Predicts likelihood of heart disease
 Data visualization for better insights
 Clean and structured ML pipeline
 Beginner-friendly yet practical implementation
 
 #Future Improvements
+
 Deploy as a web app (using Flask/Streamlit)
 Use advanced models like XGBoost or Neural Networks
 Improve accuracy with feature engineering
 Integrate real-time health data
 
 #Conclusion
+
 This project demonstrates how AI/ML can be applied in the healthcare domain to assist in early detection of heart disease. It highlights the potential of machine learning in building intelligent systems that can support medical professionals and improve patient outcomes.
