@@ -37,17 +37,19 @@ Comparing different models (if applicable)
 6. Prediction
 Final model predicts whether a person is likely to have heart disease
 
-#~Tech Stack
+->Tech Stack
+
 #Language
 Python
-#Libraries Used
-NumPy → numerical computations
-Pandas → data manipulation and analysis
-Matplotlib → data visualization
-Seaborn → advanced visualization
-Scikit-learn → machine learning models and evaluation
-AI/ML Aspect
 
+#Libraries Used
+(1)NumPy → numerical computations
+(2)Pandas → data manipulation and analysis
+(3)Matplotlib → data visualization
+(4)Seaborn → advanced visualization
+(5)Scikit-learn → machine learning models and evaluation
+
+#AI/ML Aspect
 This project is an Artificial Intelligence / Machine Learning application that uses classification algorithms to:
 
 Learn patterns from historical medical data
