@@ -1,12 +1,11 @@
-# Python-Projects
-Heart Disease Prediction using AI/ML
-#->Overview
+# Heart Disease Prediction model using AI/ML
+->Overview
 
 Heart disease is one of the leading causes of death worldwide, and early detection can significantly improve survival rates. This project focuses on building an AI/ML-based prediction system that can analyze patient health data and determine the likelihood of heart disease.
 
 The goal is to leverage machine learning techniques to assist in early diagnosis and decision-making, making healthcare more proactive and data-driven.
 
-#->Problem Statement
+->Problem Statement
 
 Traditional methods of diagnosing heart disease can be time-consuming and sometimes require multiple medical tests. There is a need for a system that can:
 
